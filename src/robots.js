@@ -14,14 +14,14 @@ export const robots = [
     {
         id: 3,
         name: 'Clementine Bauch',
-        username: 'Samantha',
+        username: 'Anywhere',
         email: 'Nathan@yesenia.net'
     },
     {
         id: 4,
-        name: 'Nilotpal Patrik',
-        username: 'neelu',
-        email: 'neelu@gmail.com'
+        name: 'Edwin Patrik',
+        username: 'Patty',
+        email: 'edwin@gmail.com'
     },
     {
         id: 5,
@@ -37,26 +37,26 @@ export const robots = [
     },
     {
         id: 7,
-        name: 'Chinamy Bhagat',
-        username: 'Cheems',
-        email: 'smpl@cheemy@ac.in'
+        name: 'Vrihan Chatterjee',
+        username: 'Vihu',
+        email: 'vihu@ac.in'
     },
     {
         id: 8,
-        name: 'Sherpal Soni',
-        username: 'Cheetah',
-        email: 'soni778@sherpal.ac.in'
+        name: 'Danger Minds',
+        username: 'Damn',
+        email: 'damnn3218@vision.ac.in'
     },
     {
         id: 9,
-        name: 'Devpal Handscomb',
-        username: 'Deva',
-        email: 'Deva123@gmail.com'
+        name: 'Peter Handscomb',
+        username: 'Peacock',
+        email: 'div123@gmail.com'
     },
     {
         id: 10,
-        name: 'Virat Anderson',
-        username: 'Vande',
-        email: 'viratanderson236@gmail.com'
+        name: 'Vihan Anderson',
+        username: 'Vision',
+        email: 'vansion236@gmail.com'
     },
 ]
